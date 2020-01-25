@@ -5,6 +5,7 @@ echo "[1]spam phd"
 echo "[2]spam kita bisa"
 echo "[3]spam telkomsel"
 echo "[0]keluar"
+read -p "pilih:" pl
 
 if [ $pl = 1 ]
 then
