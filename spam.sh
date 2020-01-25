@@ -1,12 +1,11 @@
 #!bin/sh
 clear
-figlet by mufti
-echo "silahkan pilih nomer nya"
+echo "silahkan pilih ya"
 echo "[1]spam phd"
 echo "[2]spam kita bisa"
-echo "[3]spam telkomsel
+echo "[3]spam telkomsel"
 echo "[0]keluar"
-read -p "pilih saja:" pl
+
 if [ $pl = 1 ]
 then
     clear
